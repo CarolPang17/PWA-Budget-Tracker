@@ -30,11 +30,14 @@ This is a buget tracker that allows users to add transaction with / with out int
 
 * app can be use even the internet is offline, data will be added when internet is back to online
 
+- this app can be download, to do the , please do to that, please do to : [Live Heroku App](https://infinite-depths-60427.herokuapp.com/)
+![Screen Shot 2022-05-17 at 2 47 30 PM](https://user-images.githubusercontent.com/42502061/168915715-2430fb18-ae17-4726-aa0d-aa4f3c6b02c8.png)
+
 
 ## Links
 
 * [Github](https://github.com/CarolPang17/PWA-Budget-Tracker)
-* [Live Heroku App]()
+* [Live Heroku App](https://infinite-depths-60427.herokuapp.com/)
 
 ## Features
 
